@@ -9,7 +9,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/Kauaholiveira" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/Kauaholiveira" target="_blank"><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/symbole-github-violet.png?raw=true" width="50px" height="50px"/></a>
 </td>
 
 </td>
