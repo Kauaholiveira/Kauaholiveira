@@ -19,9 +19,9 @@
 </td>
 <td><a href="https://www.instagram.com/kauaholiveira/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="www.linkedin.com/in/kauã-henrique-6a971229b" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://joaopauloaramuni.github.io/image/lattes2.png?raw=true" width="50px" height="50px"/></a>
+
 </td>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://joaopauloaramuni.github.io/image/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
@@ -41,7 +41,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Kauã Henrique</code>, tenho 20 anos, moro em BH e sou Estudante de Sistemas de Informação. Atualmente sou <code>Estagiario</code> de Ti na Prefeitura de Belo Horizonte <a href="https://newtonpaiva.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Kauã Henrique</code>, tenho 20 anos, moro em BH e sou Estudante de Sistemas de Informação. Atualmente sou <code>Estagiario de TI</code> na Prefeitura de Belo Horizonte <a href="https://newtonpaiva.br/" target="_blank">Newton paiva</a>.</i> :man_teacher:<br />
 </div>
 
 
