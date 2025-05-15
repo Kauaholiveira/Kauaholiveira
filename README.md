@@ -19,7 +19,7 @@
 </td>
 <td><a href="https://www.instagram.com/kauaholiveira/" target="_blank"><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/png-clipart-social-media-computer-icons-hashtag-insta-purple-violet.png?raw=true" width="70px" height="70px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/kau%C3%A3-henrique-6a971229b/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/kau%C3%A3-henrique-6a971229b/" target="_blank"><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/icone-linkedin-ronde-violet.png?raw=true" width="50px" height="50px"/></a>
 </td>
 
 </td>
