@@ -1,4 +1,4 @@
-<img align="center" alt="Header" src="https://Kauaholiveira.github.io/github-header-image.png?raw=true"/>
+<img align="center" alt="Header" src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/github-header-image.png?raw=true"/>
 </div>
 
 -----
