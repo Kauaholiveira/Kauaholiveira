@@ -13,9 +13,9 @@
 </td>
 
 </td>
-<td><a href="mailto:kauaice123@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="emailto:kauaice123@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531975473353" target="_blank"><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/whatsapp.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531975473353" target="_blank"><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/Gemini_Generated_Image_sn1rorsn1rorsn1r.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.instagram.com/kauaholiveira/" target="_blank"><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/png-clipart-social-media-computer-icons-hashtag-insta-purple-violet.png?raw=true" width="70px" height="70px"/></a>
 </td>
@@ -28,7 +28,6 @@
 <td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </td>
-<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/calendar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
