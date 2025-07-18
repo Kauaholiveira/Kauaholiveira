@@ -13,7 +13,7 @@
 </td>
 
 </td>
-<td><a href="emailto:kauaice123@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="emailto:kauaice123@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/Gemini_Generated_Image_yjxth4yjxth4yjxt.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://wa.me/5531975473353" target="_blank"><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/whatsapp-Photoroom.jpg?raw=true" width="100px" height="100px"/></a>
 </td>
