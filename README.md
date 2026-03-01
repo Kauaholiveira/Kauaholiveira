@@ -36,7 +36,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Kauã Henrique</code>, tenho 20 anos, moro em BH e sou Estudante de Sistemas de Informação. Atualmente sou <code>Estagiario de TI</code> na Prefeitura de Belo Horizonte <a href="https://newtonpaiva.br/" target="_blank">Newton paiva</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Kauã Henrique</code>, tenho 20 anos, moro em BH e sou Estudante de Sistemas de Informação. Atualmente sou <code>Estagiario de TI</code> na Prefeitura de Belo Horizonte <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
 </div>
 
 
