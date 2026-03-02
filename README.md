@@ -9,11 +9,11 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/Kauaholiveira" target="_blank"><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/images (1).png?raw=true" width="70px" height="70px"/></a>
+<td><a href="https://github.com/Kauaholiveira" target="_blank"><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/github-logo-icon-3.png?raw=true" width="70px" height="70px"/></a>
 </td>
 
 </td>
-<td><a href="emailto:kauaice123@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/Gemini_Generated_Image_yjxth4yjxth4yjxt.png?raw=true" width="100px" height="100px"/></a>
+<td><a href="emailto:kauaice123@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/gmail-logo.jpg?raw=true" width="100px" height="100px"/></a>
 </td>
 <td><a href="https://wa.me/5531975473353" target="_blank"><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/whatsapp-Photoroom.jpg?raw=true" width="100px" height="100px"/></a>
 </td>
