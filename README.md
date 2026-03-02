@@ -36,7 +36,18 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Kauã Henrique</code>, tenho 20 anos, moro em BH e sou Estudante de Sistemas de Informação. Atualmente sou <code>Estagiario de TI</code> na Prefeitura de Belo Horizonte <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<p>
+  <i>
+    <b>Olá</b> 👋<br><br>
+    Sou <code>Kauã Henrique</code>, tenho 20 anos e moro em BH.<br>
+    Sou estudante de <b>Sistemas de Informação</b> 💻<br><br>
+    Atualmente atuo como <code>Estagiário de TI</code> na 
+    <b>Prefeitura de Belo Horizonte</b> em parceria com a 
+    <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="_blank">
+      PUC Minas
+    </a> 👨‍🏫
+  </i>
+</p>
 </div>
 
 
