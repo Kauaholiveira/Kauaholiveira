@@ -30,10 +30,10 @@
 </td>
 </tr>
 <tr>
- <td align="center" colspan="11"></td>
+ <td align="center" colspan="10"></td>
 </tr> 
 </table>
-<div ><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/charizard.gif?raw=true" width="10000px" height="10000px"/></div>
+<div ><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/charizard.gif?raw=true" width="1000px" height="1000px"/></div>
 </div>
 <div align="justify">
 <p>
