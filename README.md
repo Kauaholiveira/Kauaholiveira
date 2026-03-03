@@ -49,7 +49,7 @@
 </td>
 
 </td>
-</td>-->
+</td>
 <td><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/charizard.gif?raw=true" width="100px" height="100px"/></a>
 </td>
 </td>
