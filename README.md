@@ -29,6 +29,7 @@
 </td>
 </td>
 </tr>
+<td <img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/whatsapp-logo.jpg?raw=true" width="100px" height="100px"/></td>
 <tr>
  <td align="center" colspan="11"></td>
 </tr> 
