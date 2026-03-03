@@ -33,7 +33,7 @@
  <td align="center" colspan="10"></td>
 </tr> 
 </table>
-<div ><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/charizard.gif?raw=true" width="1000px" height="1000px"/></div>
+<div ><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/charizard.gif?raw=true" width="800px" height="800px"/></div>
 </div>
 <div align="justify">
 <p>
