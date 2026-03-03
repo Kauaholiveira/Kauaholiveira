@@ -31,7 +31,7 @@
  <td align="center" colspan="10"></td>
 </tr> 
 </table>
-<div style="float: right; padding: 20px 0 20px 35px; font-family: Verdana, Geneva, sans-serif; font-size: 12px;">
+<div style="float: right; padding: 20px 0 20px 35px; font-family: Montserrat, Geneva, sans-serif; font-size: 12px;">
     <div class="Upload">
         Sou Kauã Henrique, tenho 20 anos e moro em BH.<br><br>
         Sou estudante de <b>Sistemas de Informação 💻</b><br><br>
