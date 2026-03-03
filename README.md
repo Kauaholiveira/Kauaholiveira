@@ -37,7 +37,7 @@
 <p>
   <i>
     <b>Olá</b> 👋<br><br>
-    Sou <code>Kauã Henrique</code>, tenho 20 anos e moro em BH.<br>
+    Sou Kauã Henrique, tenho 20 anos e moro em BH.
     Sou estudante de <b>Sistemas de Informação</b> 💻<br><br>
     Atualmente atuo como <code>Estagiário de TI</code> na 
     <b>Prefeitura de Belo Horizonte</b> em parceria com a 
@@ -47,7 +47,7 @@
   </i>
 </p>
 </div>
-<div ><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/charizard.gif?raw=true" width="800px" height="800px"/></div>
+<div ><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/charizard.gif?raw=true" width="600px" height="600px"/></div>
 </div>
 
 
