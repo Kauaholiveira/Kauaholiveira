@@ -32,7 +32,11 @@
 </tr> 
 </table>
 <div style=" float: right; padding: 20px 0 20px 35px; font-family:Verdana, Geneva, sans-serif; font-size:12px;">
-    <div class="Upload">oi</div>
+    <div class="Upload"> Sou Kauã Henrique, tenho 20 anos e moro em BH.
+    Sou estudante de <b>Sistemas de Informação 💻<br><br>
+    Atualmente atuo como Estagiário de TI</code> na 
+    <b>Prefeitura de Belo Horizonte</b> em parceria com a 
+    <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="_blank"></div>
 </div>
 <div align="justify">
 <p>
