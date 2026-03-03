@@ -29,12 +29,11 @@
 </td>
 </td>
 </tr>
-<td <img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/whatsapp-logo.jpg?raw=true" width="100px" height="100px"/></td>
 <tr>
  <td align="center" colspan="11"></td>
 </tr> 
 </table>
-
+<div ><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/charizard.gif?raw=true" width="100px" height="100px"/></div>
 </div>
 <div align="justify">
 <p>
