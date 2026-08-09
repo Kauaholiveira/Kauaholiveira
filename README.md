@@ -62,10 +62,10 @@
 -->
 <div style="float: right; padding: 20px 0 20px 35px; font-family: Montserrat, Geneva, sans-serif; font-size: 12px;">
     <div class="Upload">
-        Sou Kauã Henrique, tenho 20 anos e moro em BH.<br>
+        Sou Kauã Henrique, tenho 21 anos e moro em BH.<br>
         Sou estudante de <b>Sistemas de Informação 💻</b><br>
-        Atualmente atuo como Estagiário de TI na 
-        <b>Prefeitura de Belo Horizonte</b> faço faculdade na
+        Atualmente sou  
+        <b>DEV</b> faço faculdade na
         <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="_blank">
             PUC Minas
         </a>.
