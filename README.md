@@ -1,78 +1,63 @@
-<img align="center" alt="Header" src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/github-header-banner.png?raw=true"/>
+<div align="center">
+
+![Banner](https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/github-header-banner.png)
+
+# Olá, eu sou o Kauã Henrique 👋
+
+**Estudante de Sistemas de Informação na PUC Minas 💻**
+Desenvolvedor em formação | Belo Horizonte, MG 📍
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-henrique-6a971229b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauaholiveira/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/SEU_ID_AQUI)
+
 </div>
 
------
+---
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Cursando **Sistemas de Informação** na [PUC Minas](https://www.pucminas.br)
+- 💼 Trabalho na **Prefeitura de Belo Horizonte**
+- 📚 Estudando **Programação Orientada a Objetos** com C#
+- 🌱 Aprendendo e construindo projetos para evoluir na carreira de desenvolvedor
+
+---
+
+## 🛠️ Tecnologias
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [Ecofossil](https://github.com/Kauaholiveira/Ecofossil) | | JavaScript |
+| [MetaCerta](https://github.com/Kauaholiveira/MetaCerta) | MetaCerta é uma plataforma de planejamento financeiro pessoal que permite cadastrar metas mensais ao longo do ano, acompanhar o progresso das economias e desbloquear recompensas ao atingir os objetivos. Organize suas finanças, acompanhe suas conquistas e transforme suas metas em experiências, como passeios, viagens, restaurantes e muito mais.| HTMl,CSS,JAVASCRIPT |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<table>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-<tr>
-<td><a href="https://github.com/Kauaholiveira" target="_blank"><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/github-logo-icon-3.png?raw=true" width="100px" height="100px"/></a>
-</td>
 
-</td>
-<td><a href="emailto:kauaice123@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/gmail-logo.jpg?raw=true" width="100px" height="100px"/></a>
-</td>
-<td><a href="https://www.instagram.com/kauaholiveira/" target="_blank"><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/instagram-logo.jpg?raw=true" width="100px" height="120px"/></a>
-</td>
-<td><a href="https://www.linkedin.com/in/kau%C3%A3-henrique-6a971229b/" target="_blank"><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/in-logo.png?raw=true" width="100px" height="100px"/></a>
-</td>
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Kauaholiveira&show_icons=true&theme=tokyonight&hide_border=true)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauaholiveira&layout=compact&theme=tokyonight&hide_border=true)
 
-</td>
-</td>-->
-<td><a href="https://www.linkedin.com/in/kau%C3%A3-henrique-6a971229b/" target="_blank"><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/discord-logo.jpg?raw=true" width="100px" height="100px"/></a>
-</td>
-</td>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="10"></td>
-</tr> 
-</table>
-<!-- 
-<table>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-<tr>
-<td><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/charizard.gif?raw=true" width="100px" height="100px"/></a>
-</td>
-
-</td>
-<td><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/charizard.gif?raw=true" width="100px" height="100px"/></a>
-</td>
-<td><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/charizard.gif?raw=true" width="100px" height="120px"/></a>
-</td>
-<td><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/charizard.gif?raw=true" width="100px" height="100px"/></a>
-</td>
-
-</td>
-</td>
-<td><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/charizard.gif?raw=true" width="100px" height="100px"/></a>
-</td>
-</td>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="10"></td>
-</tr> 
-</table>
--->
-<div style="float: right; padding: 20px 0 20px 35px; font-family: Montserrat, Geneva, sans-serif; font-size: 12px;">
-    <div class="Upload">
-        Sou Kauã Henrique, tenho 21 anos e moro em BH.<br>
-        Sou estudante de <b>Sistemas de Informação 💻</b><br>
-        Atualmente sou  
-        <b>DEV</b> faço faculdade na
-        <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="_blank">
-            PUC Minas
-        </a>.
-    </div>
-</div>
-<div ><img src="https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/charizard.gif?raw=true" width="600px" height="600px"/></div>
 </div>
 
+---
 
+<div align="center">
 
+![Charizard](https://raw.githubusercontent.com/Kauaholiveira/Kauaholiveira/main/charizard.gif)
+
+</div>
